@@ -3,4 +3,8 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 GitHub非常好用
+<<<<<<< Updated upstream
 方法方法方法
+哈哈哈哈哈哈哈哈哈哈哈哈
+非常不错66666666
+>>>>>>> Stashed changes
