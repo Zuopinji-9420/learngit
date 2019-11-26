@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 GitHub是一个很好的网站。
+GitHub非常棒
